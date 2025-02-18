@@ -16,7 +16,8 @@ This repo is implementation for enhanced learning-based normal estimation for po
 
 ### Data praparation
 
-You can download PCPNet dataset
+You can download PCPNet dataset by
 ```
-python train.py
+python get_data.py
 ```
+or visiting official website: https://github.com/paulguerrero/pcpnet
