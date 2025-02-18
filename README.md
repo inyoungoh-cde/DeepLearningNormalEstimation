@@ -50,4 +50,4 @@ python evaluate.py
 ```
 The results, including predicted normals and qualitative outcomes (e.g., summaries for six types—no, low, medium, and high noise levels, as well as gradient and striped densities—for the PCPNet dataset), will be saved in ```./log_ablation_noLw/test_LAB12345+GAB_order4/results/```.
 
-Make sure that the default setting evaluates on a sparse set of patches. For example, in the PCPNet dataset, each point cloud contains 100,000 points, and 5,000 predicted normal vectors are generated per sample (stored in the .pidx file). If you want to evaluate on a full set of patches, please use the ```--sparse_patches False``` flag.
+Make sure that the default setting evaluates on a sparse set of patches. For example, in the PCPNet dataset, each point cloud contains 100,000 points, and 5,000 predicted normal vectors are generated per point cloud. If you want to evaluate on a full set of patches, please use the ```--sparse_patches False``` flag.
