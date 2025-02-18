@@ -16,8 +16,10 @@ This repo is implementation for enhanced learning-based normal estimation for po
 
 ### Data praparation
 
-You can download PCPNet dataset by
+You can download the PCPNet dataset by running
 ```
 python get_data.py
 ```
-or visiting official website: https://github.com/paulguerrero/pcpnet
+or by visiting the following website: https://github.com/paulguerrero/pcpnet.
+
+The SceneNN and Semantic3D datasets can be downloaded from https://github.com/LeoQLi/HSurf-Net. You can download the PCPNet dataset as well.
