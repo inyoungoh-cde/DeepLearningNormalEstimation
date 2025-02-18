@@ -39,4 +39,13 @@ You can train the proposed network using the organized datasets by running the f
 ```
 python train_our.py
 ```
-On our desktop with an NVIDIA 3090 (24 GB), it takes about 1.5 to 2 days to train the network.
+On our desktop with an NVIDIA 3090 (24 GB), it takes about 1.5 to 2 days to train the network. The trained model will be saved in ```./log_ablation_noLw/test_LAB12345+GAB_order4/```.
+
+### Test the proposed network
+
+You can evaluate the trained model by following two commands:
+```
+python test_our.py
+python evaluate.py
+```
+The results, including predicted normals and qualitative outcomes (e.g., summaries for six types—no, low, medium, and high noise levels, as well as gradient and striped densities—for the PCPNet dataset), will be saved in ```./log_ablation_noLw/test_LAB12345+GAB_order4/results/```.
