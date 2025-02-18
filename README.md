@@ -35,7 +35,8 @@ data/SceneNN
 
 ### Train the proposed network
 
-you can train the proposed network with the organized datasets by running
+You can train the proposed network using the organized datasets by running the following command:
 ```
 python train_our.py
 ```
+On our desktop with an NVIDIA 3090 (24 GB), it takes about 1.5 to 2 days to train the network.
