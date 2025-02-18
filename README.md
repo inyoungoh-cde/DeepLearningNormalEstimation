@@ -5,7 +5,7 @@ This repo is implementation for enhanced learning-based normal estimation for po
 ## Requirements
 - Ubuntu 20.04
 - PYthon 3.9.19
-- Pytorch 1.11.0 with torchvision using the following command: pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113 (https://pytorch.org/get-started/previous-versions/)
+- Pytorch 1.11.0 with torchvision using the following command: pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113 (from the website, https://pytorch.org/get-started/previous-versions/)
 - Numpy 1.26.4
 - scipy 1.13.1
 - tensorboardX 2.6.2.2
