@@ -22,7 +22,7 @@ python get_data.py
 ```
 or by visiting the following website: https://github.com/paulguerrero/pcpnet.
 
-The FamousShape and SceneNN datasets can be downloaded from https://github.com/LeoQLi/SHS-Net?tab=readme-ov-file. You can download the PCPNet dataset as well.
+The FamousShape and SceneNN datasets can be downloaded from https://github.com/LeoQLi/SHS-Net. You can download the PCPNet dataset as well.
 
 The downloaded datasets should be organized as follows:
 ```
@@ -54,4 +54,4 @@ Make sure that the default setting evaluates on a sparse set of patches. For exa
 
 ## Acknowledgement
 
-Our code is heavily based on DeepFit ```https://github.com/sitzikbs/DeepFit```
+Our code is heavily based on MCPA ```https://github.com/CharlesLee96/NormalEstimation```, GraphFit ```https://github.com/UestcJay/GraphFit```, and SHSNet (CVPR 2023) ```https://github.com/LeoQLi/SHS-Net```.
