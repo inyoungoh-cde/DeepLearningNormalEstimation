@@ -16,4 +16,7 @@ This repo is implementation for enhanced learning-based normal estimation for po
 
 ### Data praparation
 
-hihi
+You can download PCPNet dataset
+```
+python train.py
+```
