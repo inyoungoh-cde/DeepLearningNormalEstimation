@@ -22,4 +22,13 @@ python get_data.py
 ```
 or by visiting the following website: https://github.com/paulguerrero/pcpnet.
 
-The SceneNN and Semantic3D datasets can be downloaded from https://github.com/LeoQLi/HSurf-Net. You can download the PCPNet dataset as well.
+The FamousShape and SceneNN datasets can be downloaded from https://github.com/LeoQLi/SHS-Net?tab=readme-ov-file. You can download the PCPNet dataset as well.
+
+The downloaded datasets should be organized as follows:
+```
+data/FamousShape
+
+data/pcpnet
+
+data/SceneNN
+```
