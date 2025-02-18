@@ -32,3 +32,10 @@ data/pcpnet
 
 data/SceneNN
 ```
+
+### Train the proposed network
+
+you can train the proposed network with the organized datasets by running
+```
+python train_our.py
+```
