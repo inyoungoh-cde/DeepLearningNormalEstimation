@@ -54,7 +54,7 @@ Make sure that the default setting evaluates on a sparse set of patches. For exa
 
 ### Pretrained network
 
-We provide the pretrained network, which is saved in ```./pretrained/test_LAB12345+GAB_order4/``` along with our evaluated results. Please place the .zip file in the specified directory.
+We provide the pretrained network, which is saved in ```./pretrained/test_LAB12345+GAB_order4/``` along with our evaluated results. Please upzip the .zip file in the specified directory.
 
 ## Acknowledgement
 
