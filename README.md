@@ -55,3 +55,5 @@ Make sure that the default setting evaluates on a sparse set of patches. For exa
 ## Acknowledgement
 
 Our code is heavily based on MCPA ```https://github.com/CharlesLee96/NormalEstimation```, GraphFit ```https://github.com/UestcJay/GraphFit```, and SHSNet (CVPR 2023) ```https://github.com/LeoQLi/SHS-Net```.
+
+Please cite our paper if you are intested in the proposed method. 
