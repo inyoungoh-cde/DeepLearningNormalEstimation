@@ -52,6 +52,10 @@ The results, including predicted normals and qualitative outcomes (e.g., summari
 
 Make sure that the default setting evaluates on a sparse set of patches. For example, in the PCPNet dataset, each point cloud contains 100,000 points, and 5,000 predicted normal vectors are generated per point cloud. If you want to evaluate on a full set of patches, please use the ```--sparse_patches False``` flag.
 
+### Pretrained network
+
+We provide the pretrained network, which is saved in ```./pretrained/test_LAB12345+GAB_order4/``` along with our evaluated results. Please place the .zip file in the specified directory.
+
 ## Acknowledgement
 
 Our code is heavily based on MCPA ```https://github.com/CharlesLee96/NormalEstimation```, GraphFit ```https://github.com/UestcJay/GraphFit```, and SHSNet (CVPR 2023) ```https://github.com/LeoQLi/SHS-Net```.
