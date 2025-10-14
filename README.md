@@ -60,13 +60,13 @@ We provide the pretrained network, which is saved in ```./pretrained/test_LAB123
 
 Our code is heavily based on MCPA ```https://github.com/CharlesLee96/NormalEstimation```, GraphFit ```https://github.com/UestcJay/GraphFit```, and SHSNet (CVPR 2023) ```https://github.com/LeoQLi/SHS-Net```.
 
-Please cite our paper (sumbitted to Journal of Electronic Imaging in August 2025) if you are interested in the proposed method. 
+Please cite our paper (sumbitted to Computer Aided Geometric Design in October 2025) if you are interested in the proposed method. 
 
 ```
 @article{DeepLearningNormalEstimation,
   title={Enhanced Point Cloud Normal Estimation via Multi-Scale Geometric Feature Fusion and Attention Mechanism},
   author={Inyoung Oh, Jinho Song, Minsung Kim, Dongho Yun, and Kwanghee Ko},
-  journal={Journal of Electronic Imaging},
+  journal={Computer Aided Geometric Design},
   DOI={https://doi.org/10.5281/zenodo.14885564}
 }
 ```
